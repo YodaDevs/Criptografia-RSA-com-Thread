@@ -5,7 +5,7 @@ Instale Python3.9 (https://www.python.org/downloads/), ao acessar o link clique 
 Após a instalação do programa acima, será necessário o passo a passo da instalação do pip no PATH, para melhor esclarecimento, acesse o link: https://dicasdepython.com.br/resolvido-pip-nao-e-reconhecido-como-um-comando-interno/
 Após instalado o pip, faremos o uso do promt de command (cmd) para instalação de alguns pacotes, abra o cmd e instale com os seguintes comandos:
 <p>
- <a>pip install python-socketio</a> •
+ <a></a> • pip install python-socketio
 </p>
 <p>
  <a>pip install pickle4</a> • 
