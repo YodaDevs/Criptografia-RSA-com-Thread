@@ -9,11 +9,19 @@ pip install pickle4
 pip install keyboard
 pip install random2
 pip install pycryptodome
-<p align="center">
+<p>
  <a>pip install python-socketio</a> •
+</p>
+<p>
  <a>pip install pickle4</a> • 
+</p>
+<p>
  <a>pip install keyboard</a> • 
+</p>
+<p>
  <a>pip install random2</a> • 
+</p>
+<p>
  <a>pip install pycryptodome</a> • 
 </p>
 Após a instalação dos pacotes reinicie o cmd e baixe os arquivos no seguinte link do github (https://github.com/YodaDevs/Criptografia-RSA-com-Thread.git)
