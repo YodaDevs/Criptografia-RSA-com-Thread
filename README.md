@@ -1,5 +1,5 @@
 Alunos: João da Silva Muniz Neto e Mateus Monteiro Santos<p>
-Trabalho referente a disciplina de Redes de Computadores, do Instituto de Computação (IC) da Universidade Federal de Alagoas (UFAL) ministrada pelo professor Leandro Melo Sales. Trabalho com o objetivo de implementar os conhecimentos vistos em sala sobre Redes, valendo 40% da nota da AB2. A implementação consiste em aprensentar 1 códigos, que realiza a criptografia em RSA de uma mensagem enviada pelo cliente para o servidor, e por fim retornando-a criptografada.
+Trabalho referente a disciplina de Redes de Computadores, do Instituto de Computação (IC) da Universidade Federal de Alagoas (UFAL) ministrada pelo professor Leandro Melo de Sales. Trabalho com o objetivo de implementar os conhecimentos vistos em sala sobre Redes, valendo 40% da nota da AB2. A implementação consiste em aprensentar 1 códigos, que realiza a criptografia em RSA de uma mensagem enviada pelo cliente para o servidor, e por fim retornando-a criptografada.
 
 # INSTRUÇÕES PARA UTILIZAÇÃO DA APLICAÇÃO
 
