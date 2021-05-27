@@ -20,5 +20,5 @@ Após instalado o pip, faremos o uso do promt de command (cmd) para instalação
  <a>pip install pycryptodome</a> • 
 </p>
 Após a instalação dos pacotes reinicie o cmd e baixe os arquivos no seguinte link do github (https://github.com/YodaDevs/Criptografia-RSA-com-Thread.git)
-Após baixado os dois arquivos, inicie o arquivo “server_thread.py” para abrir o servidor e inicie o arquivo “client_thread.py” para iniciar o cliente e ser possível a criptografia da mensagem. (lembrando que o servidor está em localhost)<p>
+Após baixado os dois arquivos, inicie o arquivo “server_thread.py” para abrir o servidor e inicie o arquivo “client_thread.py” para iniciar o cliente e ser possível a criptografia da mensagem(lembrando que o servidor está em localhost).<p>
 Aqui podemos ver que o servidor fará a criptografia perguntando quais números primos utilizaremos para gerar a criptografia, sendo assim podemos seguir passo a passo como solicitado no programa e ele retornará nossa mensagem. 
