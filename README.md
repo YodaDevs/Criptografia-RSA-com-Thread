@@ -1,14 +1,9 @@
 # INSTRUÇÕES PARA UTILIZAÇÃO DA APLICAÇÃO
 
 Primeiro, para o uso da aplicação, precisamos instalar alguns programas e pacotes:
-Instale Python3.9 (https://www.python.org/downloads/), ao acessar o link clique no botão amarelo “Download Python 3.9.5” (Na instalação lembre de marcar a opção “Add Python 3.9 to PATH” e siga em “Install Now”);
+Instale Python3.9 (https://www.python.org/downloads/), ao acessar o link clique no botão amarelo “Download Python 3.9.5” (Na instalação lembre de marcar a opção “Add Python 3.9 to PATH” e siga em “Install Now”);<p>
 Após a instalação do programa acima, será necessário o passo a passo da instalação do pip no PATH, para melhor esclarecimento, acesse o link: https://dicasdepython.com.br/resolvido-pip-nao-e-reconhecido-como-um-comando-interno/
 Após instalado o pip, faremos o uso do promt de command (cmd) para instalação de alguns pacotes, abra o cmd e instale com os seguintes comandos:
-pip install python-socketio
-pip install pickle4
-pip install keyboard
-pip install random2
-pip install pycryptodome
 <p>
  <a>pip install python-socketio</a> •
 </p>
